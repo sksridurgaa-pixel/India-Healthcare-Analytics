@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Healthcare Intelligence
+# Indian Healthcare Intelligence
 
 ### Patient • Disease • Treatment • Hospital Analytics
 
@@ -455,13 +455,13 @@ Insurance coverage analysis helps understand the proportion of patients covered 
 ```text
 india-healthcare-analytics/
 │
-├── README.md
-│
 ├── Healthcare_Project_Dashboard.pbix
+│
+├── healthcare project analysis.sql
 │
 ├── Healthcare_project_Cleaneddata.xlsx
 │
-├── healthcare project analysis.sql
+├── README.md
 │
 ├── Patient_Healthcare_Overview.png
 │
