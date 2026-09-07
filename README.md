@@ -457,12 +457,12 @@ india-healthcare-analytics/
 │
 ├── Healthcare_Project_Dashboard.pbix
 │
-├── healthcare project analysis.sql
-│
 ├── Healthcare_project_Cleaneddata.xlsx
-│
-├── README.md
 │
 ├── Patient_Healthcare_Overview.png
 │
-└── Treatment_Hospital_Intelligence.png
+├── README.md
+│
+├── Treatment_Hospital_Intelligence.png
+│
+└── healthcare project analysis.sql
